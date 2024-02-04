@@ -8,3 +8,4 @@
 
 1. remove.bg <https://remove.bg> - Untuk menghapus background image
 1. blogmaker.app <https://www.blobmaker.app> - Make organic SVG shapes for your next design
+1. simpleicons.org <https://simpleicons.org/> - Free SVG icons for popular brands
