@@ -1,4 +1,4 @@
-# Protfolio TailwindCSS by WPU
+# Portfolio TailwindCSS by WPU
 
 ## Source
 
