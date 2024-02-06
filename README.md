@@ -1,5 +1,9 @@
 # Portfolio TailwindCSS by WPU
 
+## Live
+
+<https://bandithijo.github.io/portfolio-tailwind-css/>
+
 ## Source
 
 1. Web Programming UNPAS - Membuat Website Portfolio Menggunakan TailwindCSS 3 <https://www.youtube.com/watch?v=8Ea4oq8qFtM>
